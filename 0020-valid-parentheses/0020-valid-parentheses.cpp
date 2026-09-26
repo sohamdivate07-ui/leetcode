@@ -1,41 +1,25 @@
 class Solution {
 public:
     bool isValid(string s) {
-        int n = s.size();
+        if (s.size() % 2 != 0) return false; // Quick check for odd lengths
+        
         stack<char> st;
         
-        if (n % 2 != 0) {
-            return false;
-        }
-        
-        for (int i = 0; i < n; i++) {
-            // If it's an opening bracket, push it
-            if (s[i] == '(' || s[i] == '[' || s[i] == '{') {
-                st.push(s[i]); // Fixed a[i] to s[i]
-            } 
+        for (char c : s) {
+            // If it's an opening bracket, push its expected counterpart
+            if (c == '(') st.push(')');
+            else if (c == '{') st.push('}');
+            else if (c == '[') st.push(']');
             else {
-                // If stack is empty, we have a closing bracket without a matching opening bracket
-                if (st.empty()) {
+                // If it's a closing bracket, check if stack is empty or doesn't match
+                if (st.empty() || st.top() != c) {
                     return false;
                 }
-                
-                char topChar = st.top();
-                
-                // Check if the current closing bracket matches the top of the stack
-                if ((s[i] == ')' && topChar == '(') ||
-                    (s[i] == ']' && topChar == '[') ||
-                    (s[i] == '}' && topChar == '{')) {
-                    st.pop();          
-                } else {
-                    return false; // Mismatch
-                }
+                st.pop(); // It matches, so remove it
             }
         }
         
-        if (st.size() == 0) {
-            return true;
-        } else {
-            return false;
-        }
+        // If stack is empty, all brackets matched correctly
+        return st.empty();
     }
 };
