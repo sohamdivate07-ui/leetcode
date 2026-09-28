@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/sohamdivate07-ui/leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/sohamdivate07-ui/leetcode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sohamdivate07-ui/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/sohamdivate07-ui/leetcode/tree/master/0027-remove-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -16,6 +17,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sohamdivate07-ui/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/sohamdivate07-ui/leetcode/tree/master/0027-remove-element) |
 ## Math
 |  |
 | ------- |
