@@ -34,6 +34,7 @@
 | [0013-roman-to-integer](https://github.com/sohamdivate07-ui/leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/sohamdivate07-ui/leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/sohamdivate07-ui/leetcode/tree/master/0020-valid-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/sohamdivate07-ui/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Trie
 |  |
 | ------- |
@@ -42,10 +43,12 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sohamdivate07-ui/leetcode/tree/master/0020-valid-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/sohamdivate07-ui/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sohamdivate07-ui/leetcode/tree/master/0020-valid-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/sohamdivate07-ui/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Linked List
 |  |
 | ------- |
@@ -72,4 +75,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/sohamdivate07-ui/leetcode/tree/master/0070-climbing-stairs) |
+## Greedy
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/sohamdivate07-ui/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
