@@ -10,6 +10,7 @@
 | [0027-remove-element](https://github.com/sohamdivate07-ui/leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/sohamdivate07-ui/leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/sohamdivate07-ui/leetcode/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/sohamdivate07-ui/leetcode/tree/master/0088-merge-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -20,6 +21,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sohamdivate07-ui/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sohamdivate07-ui/leetcode/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/sohamdivate07-ui/leetcode/tree/master/0088-merge-sorted-array) |
 ## Math
 |  |
 | ------- |
@@ -79,4 +81,8 @@
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sohamdivate07-ui/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/sohamdivate07-ui/leetcode/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
