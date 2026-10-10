@@ -13,6 +13,7 @@
 | [0088-merge-sorted-array](https://github.com/sohamdivate07-ui/leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sohamdivate07-ui/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/sohamdivate07-ui/leetcode/tree/master/0136-single-number) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/sohamdivate07-ui/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Hash Table
 |  |
 | ------- |
@@ -72,6 +73,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/sohamdivate07-ui/leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/sohamdivate07-ui/leetcode/tree/master/0069-sqrtx) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/sohamdivate07-ui/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Newton's Method
 |  |
 | ------- |
@@ -90,12 +92,18 @@
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sohamdivate07-ui/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/sohamdivate07-ui/leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/sohamdivate07-ui/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/sohamdivate07-ui/leetcode/tree/master/0088-merge-sorted-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/sohamdivate07-ui/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/sohamdivate07-ui/leetcode/tree/master/0136-single-number) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/sohamdivate07-ui/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 <!---LeetCode Topics End-->
