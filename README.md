@@ -14,6 +14,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sohamdivate07-ui/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/sohamdivate07-ui/leetcode/tree/master/0136-single-number) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sohamdivate07-ui/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/sohamdivate07-ui/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -106,4 +107,8 @@
 |  |
 | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sohamdivate07-ui/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/sohamdivate07-ui/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
