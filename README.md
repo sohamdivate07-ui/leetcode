@@ -13,6 +13,7 @@
 | [0088-merge-sorted-array](https://github.com/sohamdivate07-ui/leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sohamdivate07-ui/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/sohamdivate07-ui/leetcode/tree/master/0136-single-number) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/sohamdivate07-ui/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sohamdivate07-ui/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/sohamdivate07-ui/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Hash Table
@@ -74,6 +75,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/sohamdivate07-ui/leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/sohamdivate07-ui/leetcode/tree/master/0069-sqrtx) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/sohamdivate07-ui/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sohamdivate07-ui/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Newton's Method
 |  |
@@ -98,6 +100,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/sohamdivate07-ui/leetcode/tree/master/0088-merge-sorted-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/sohamdivate07-ui/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sohamdivate07-ui/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Bit Manipulation
 |  |
