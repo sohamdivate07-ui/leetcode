@@ -3,7 +3,7 @@ public:
     bool canMakeArithmeticProgression(vector<int>& arr)
     {
         sort(arr.begin(),arr.end());
-        if(arr.size()==1 || arr.size()==0)
+        if(arr.size()<=2)
         {
             return true;
         }
