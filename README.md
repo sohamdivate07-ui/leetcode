@@ -13,6 +13,7 @@
 | [0088-merge-sorted-array](https://github.com/sohamdivate07-ui/leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sohamdivate07-ui/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/sohamdivate07-ui/leetcode/tree/master/0136-single-number) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/sohamdivate07-ui/leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sohamdivate07-ui/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sohamdivate07-ui/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/sohamdivate07-ui/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -100,6 +101,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/sohamdivate07-ui/leetcode/tree/master/0088-merge-sorted-array) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/sohamdivate07-ui/leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sohamdivate07-ui/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sohamdivate07-ui/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Bit Manipulation
