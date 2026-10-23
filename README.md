@@ -17,6 +17,7 @@
 | [2089-find-target-indices-after-sorting-array](https://github.com/sohamdivate07-ui/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sohamdivate07-ui/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/sohamdivate07-ui/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/sohamdivate07-ui/leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Hash Table
 |  |
 | ------- |
@@ -108,6 +109,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/sohamdivate07-ui/leetcode/tree/master/0136-single-number) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/sohamdivate07-ui/leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
