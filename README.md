@@ -36,6 +36,7 @@
 | [0009-palindrome-number](https://github.com/sohamdivate07-ui/leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/sohamdivate07-ui/leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/sohamdivate07-ui/leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/sohamdivate07-ui/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/sohamdivate07-ui/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/sohamdivate07-ui/leetcode/tree/master/0070-climbing-stairs) |
 ## String
@@ -44,6 +45,7 @@
 | [0013-roman-to-integer](https://github.com/sohamdivate07-ui/leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/sohamdivate07-ui/leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/sohamdivate07-ui/leetcode/tree/master/0020-valid-parentheses) |
+| [0067-add-binary](https://github.com/sohamdivate07-ui/leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/sohamdivate07-ui/leetcode/tree/master/0125-valid-palindrome) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sohamdivate07-ui/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/sohamdivate07-ui/leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
@@ -108,6 +110,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/sohamdivate07-ui/leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/sohamdivate07-ui/leetcode/tree/master/0136-single-number) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/sohamdivate07-ui/leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Heap (Priority Queue)
@@ -118,4 +121,8 @@
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/sohamdivate07-ui/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/sohamdivate07-ui/leetcode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
