@@ -17,6 +17,7 @@
 | [2089-find-target-indices-after-sorting-array](https://github.com/sohamdivate07-ui/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sohamdivate07-ui/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/sohamdivate07-ui/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3364-minimum-positive-sum-subarray](https://github.com/sohamdivate07-ui/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/sohamdivate07-ui/leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Hash Table
 |  |
@@ -125,4 +126,12 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/sohamdivate07-ui/leetcode/tree/master/0067-add-binary) |
+## Sliding Window
+|  |
+| ------- |
+| [3364-minimum-positive-sum-subarray](https://github.com/sohamdivate07-ui/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
+## Prefix Sum
+|  |
+| ------- |
+| [3364-minimum-positive-sum-subarray](https://github.com/sohamdivate07-ui/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 <!---LeetCode Topics End-->
