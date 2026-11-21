@@ -19,6 +19,7 @@ public:
         slow=slow->next;
         if(fast==slow)
         {
+            delete(dummy);
             return true;
         }
      }
