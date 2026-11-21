@@ -9,7 +9,6 @@
 class Solution {
 public:
     bool hasCycle(ListNode *head) {
-     int cnt=0;
      ListNode*dummy= new ListNode(0);
      dummy->next=head;
      ListNode*fast=dummy;
@@ -23,6 +22,7 @@ public:
             return true;
         }
      }
+     delete(dummy);
      return false;
     }
 };
