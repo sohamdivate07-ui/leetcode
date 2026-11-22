@@ -54,6 +54,7 @@
 | [0125-valid-palindrome](https://github.com/sohamdivate07-ui/leetcode/tree/master/0125-valid-palindrome) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sohamdivate07-ui/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/sohamdivate07-ui/leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/sohamdivate07-ui/leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/sohamdivate07-ui/leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Trie
 |  |
